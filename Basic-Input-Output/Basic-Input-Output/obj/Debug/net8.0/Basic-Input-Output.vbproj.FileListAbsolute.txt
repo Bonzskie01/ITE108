@@ -1,0 +1,14 @@
+C:\Users\HomePC\Desktop\Vb.net Programs\Basic-Input-Output\Basic-Input-Output\bin\Debug\net8.0\Basic-Input-Output.exe
+C:\Users\HomePC\Desktop\Vb.net Programs\Basic-Input-Output\Basic-Input-Output\bin\Debug\net8.0\Basic-Input-Output.deps.json
+C:\Users\HomePC\Desktop\Vb.net Programs\Basic-Input-Output\Basic-Input-Output\bin\Debug\net8.0\Basic-Input-Output.runtimeconfig.json
+C:\Users\HomePC\Desktop\Vb.net Programs\Basic-Input-Output\Basic-Input-Output\bin\Debug\net8.0\Basic-Input-Output.dll
+C:\Users\HomePC\Desktop\Vb.net Programs\Basic-Input-Output\Basic-Input-Output\bin\Debug\net8.0\Basic-Input-Output.pdb
+C:\Users\HomePC\Desktop\Vb.net Programs\Basic-Input-Output\Basic-Input-Output\obj\Debug\net8.0\Basic-Input-Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\Desktop\Vb.net Programs\Basic-Input-Output\Basic-Input-Output\obj\Debug\net8.0\Basic-Input-Output.AssemblyInfoInputs.cache
+C:\Users\HomePC\Desktop\Vb.net Programs\Basic-Input-Output\Basic-Input-Output\obj\Debug\net8.0\Basic-Input-Output.AssemblyInfo.vb
+C:\Users\HomePC\Desktop\Vb.net Programs\Basic-Input-Output\Basic-Input-Output\obj\Debug\net8.0\Basic-Input-Output.vbproj.CoreCompileInputs.cache
+C:\Users\HomePC\Desktop\Vb.net Programs\Basic-Input-Output\Basic-Input-Output\obj\Debug\net8.0\Basic-Input-Output.dll
+C:\Users\HomePC\Desktop\Vb.net Programs\Basic-Input-Output\Basic-Input-Output\obj\Debug\net8.0\refint\Basic-Input-Output.dll
+C:\Users\HomePC\Desktop\Vb.net Programs\Basic-Input-Output\Basic-Input-Output\obj\Debug\net8.0\Basic-Input-Output.pdb
+C:\Users\HomePC\Desktop\Vb.net Programs\Basic-Input-Output\Basic-Input-Output\obj\Debug\net8.0\Basic-Input-Output.genruntimeconfig.cache
+C:\Users\HomePC\Desktop\Vb.net Programs\Basic-Input-Output\Basic-Input-Output\obj\Debug\net8.0\ref\Basic-Input-Output.dll
