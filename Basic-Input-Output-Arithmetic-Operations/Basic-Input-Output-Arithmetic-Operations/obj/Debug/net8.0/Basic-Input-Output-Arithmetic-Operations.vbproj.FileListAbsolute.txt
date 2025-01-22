@@ -1,0 +1,14 @@
+C:\Users\HomePC\source\repos\Basic-Input-Output-Arithmetic-Operations\Basic-Input-Output-Arithmetic-Operations\bin\Debug\net8.0\Basic-Input-Output-Arithmetic-Operations.exe
+C:\Users\HomePC\source\repos\Basic-Input-Output-Arithmetic-Operations\Basic-Input-Output-Arithmetic-Operations\bin\Debug\net8.0\Basic-Input-Output-Arithmetic-Operations.deps.json
+C:\Users\HomePC\source\repos\Basic-Input-Output-Arithmetic-Operations\Basic-Input-Output-Arithmetic-Operations\bin\Debug\net8.0\Basic-Input-Output-Arithmetic-Operations.runtimeconfig.json
+C:\Users\HomePC\source\repos\Basic-Input-Output-Arithmetic-Operations\Basic-Input-Output-Arithmetic-Operations\bin\Debug\net8.0\Basic-Input-Output-Arithmetic-Operations.dll
+C:\Users\HomePC\source\repos\Basic-Input-Output-Arithmetic-Operations\Basic-Input-Output-Arithmetic-Operations\bin\Debug\net8.0\Basic-Input-Output-Arithmetic-Operations.pdb
+C:\Users\HomePC\source\repos\Basic-Input-Output-Arithmetic-Operations\Basic-Input-Output-Arithmetic-Operations\obj\Debug\net8.0\Basic-Input-Output-Arithmetic-Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\source\repos\Basic-Input-Output-Arithmetic-Operations\Basic-Input-Output-Arithmetic-Operations\obj\Debug\net8.0\Basic-Input-Output-Arithmetic-Operations.AssemblyInfoInputs.cache
+C:\Users\HomePC\source\repos\Basic-Input-Output-Arithmetic-Operations\Basic-Input-Output-Arithmetic-Operations\obj\Debug\net8.0\Basic-Input-Output-Arithmetic-Operations.AssemblyInfo.vb
+C:\Users\HomePC\source\repos\Basic-Input-Output-Arithmetic-Operations\Basic-Input-Output-Arithmetic-Operations\obj\Debug\net8.0\Basic-Input-Output-Arithmetic-Operations.vbproj.CoreCompileInputs.cache
+C:\Users\HomePC\source\repos\Basic-Input-Output-Arithmetic-Operations\Basic-Input-Output-Arithmetic-Operations\obj\Debug\net8.0\Basic-Input-Output-Arithmetic-Operations.dll
+C:\Users\HomePC\source\repos\Basic-Input-Output-Arithmetic-Operations\Basic-Input-Output-Arithmetic-Operations\obj\Debug\net8.0\refint\Basic-Input-Output-Arithmetic-Operations.dll
+C:\Users\HomePC\source\repos\Basic-Input-Output-Arithmetic-Operations\Basic-Input-Output-Arithmetic-Operations\obj\Debug\net8.0\Basic-Input-Output-Arithmetic-Operations.pdb
+C:\Users\HomePC\source\repos\Basic-Input-Output-Arithmetic-Operations\Basic-Input-Output-Arithmetic-Operations\obj\Debug\net8.0\Basic-Input-Output-Arithmetic-Operations.genruntimeconfig.cache
+C:\Users\HomePC\source\repos\Basic-Input-Output-Arithmetic-Operations\Basic-Input-Output-Arithmetic-Operations\obj\Debug\net8.0\ref\Basic-Input-Output-Arithmetic-Operations.dll
